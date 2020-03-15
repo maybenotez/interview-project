@@ -1,7 +1,7 @@
-package com.win.app.datasourcepool.basic;
+package com.win.app.pool.basic;
 
-import com.win.app.datasourcepool.DataSourcePool;
-import com.win.app.datasourcepool.source.DataSource;
+import com.win.app.pool.DataSourcePool;
+import com.win.app.pool.source.DataSource;
 
 import java.sql.Connection;
 import java.util.ArrayList;
